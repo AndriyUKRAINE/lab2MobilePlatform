@@ -1,3 +1,20 @@
-body1 {
+body {
     background-color: gray;
+}
+
+.style {
+    display: flow-root;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    margin: 3ch;
+    justify-content: center;
+}
+
+.style2 {
+    display: flow-root;
+    justify-content: center;
+    text-align: center;
 }
